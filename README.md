@@ -1,6 +1,6 @@
 # Testing environment
 
-<br>![sample HansVis window](https://raw.githubusercontent.com/AnselmoGPP/template_proj/master/headers/HansVisual_example_1.png)
+<br>![sample HansVis window](https://raw.githubusercontent.com/AnselmoGPP/Template_project/master/headers/HansVisual_example_1.png)
 
 This program is used for testing code.
 
