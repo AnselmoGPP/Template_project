@@ -7,6 +7,8 @@ ENDIF()
 
 MESSAGE(STATUS "CMake version: " ${CMAKE_MAJOR_VERSION} "." ${CMAKE_MINOR_VERSION})
 
+#ADD_SUBDIRECTORY(${CMAKE_CURRENT_SOURCE_DIR}/extern/glfw/glfw-3.3)
+
 PROJECT(project_name
 	VERSION 1.0
 	DESCRIPTION "This is for CMake testing"
