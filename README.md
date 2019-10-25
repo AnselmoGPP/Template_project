@@ -1,8 +1,8 @@
-# Testing environment
+# Project template
 
 <br>![sample HansVis window](https://raw.githubusercontent.com/AnselmoGPP/Template_project/master/more/Ned_Stark_mask.jpg)
 
-This program is used for testing code.
+This program is a project template.
 
 Links:
 
