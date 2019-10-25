@@ -23,6 +23,11 @@ ADD_EXECUTABLE(${target_name}	 # Name of the executable and the target
 	headers/header.hpp
 )
 
+SET_PROPERTY(
+	TARGET ${PROJECT_NAME} 
+	PROPERTY CXX_STANDARD 14
+)
+
 #ADD_LIBRARY(${target_name}  STATIC  # STATIC SHARED MODULE 
 #	src/main.cpp
 #	src/header.cpp
