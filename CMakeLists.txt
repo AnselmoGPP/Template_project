@@ -28,6 +28,14 @@ SET_PROPERTY(
 	PROPERTY CXX_STANDARD 14
 )
 
+add_definitions(
+	-DGLEW_STATIC
+	-D_CRT_SECURE_NO_WARNINGS
+)
+ADD_COMPILE_DEFINITIONS(
+	GLEW_STATIC=1
+)
+
 #ADD_LIBRARY(${target_name}  STATIC  # STATIC SHARED MODULE 
 #	src/main.cpp
 #	src/header.cpp
