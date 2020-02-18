@@ -1,4 +1,5 @@
 #!/bin/bash
+#chmod -x filename
 
 # Build and compile the visualizer library
 cd /home/hank/dev/MachLib/_BUILD
