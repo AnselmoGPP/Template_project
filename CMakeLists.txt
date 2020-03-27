@@ -14,6 +14,8 @@ PROJECT(project_name
 	DESCRIPTION "This is for CMake testing"
 	LANGUAGES CXX)
 
+FIND_PACKAGE(OpenCV REQUIRED PATHS ${CMAKE_CURRENT_SOURCE_DIR}/../opencv-4.1.1/_BUILD)
+
 set(target_name ${PROJECT_NAME})
 
 ADD_EXECUTABLE(${target_name}	 # Name of the executable and the target
