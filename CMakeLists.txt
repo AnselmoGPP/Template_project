@@ -18,6 +18,7 @@ FIND_PACKAGE(OpenCV REQUIRED PATHS ${CMAKE_CURRENT_SOURCE_DIR}/../opencv-4.1.1/_
 
 set(target_name ${PROJECT_NAME})
 
+
 ADD_EXECUTABLE(${target_name}	 # Name of the executable and the target
 	src/main.cpp
 	src/header.cpp
@@ -39,6 +40,7 @@ ADD_COMPILE_DEFINITIONS(
 	GLEW_STATIC=1
 	IMGUI_IMPL_OPENGL_LOADER_GLEW=1
 )
+target_compile_definitions(${PROJECT_NAME} PRIVATE NEW_MACRO=${my_dir})
 
 #ADD_LIBRARY(${target_name}  STATIC  # STATIC SHARED MODULE 
 #	src/main.cpp
