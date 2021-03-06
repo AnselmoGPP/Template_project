@@ -6,4 +6,4 @@ This program is a project template.
 
 Links:
 
-- [**Modern CMake**](https://sciencesoftcode.wordpress.com/2019/10/10/modern-cmake/)
+- [**Writing and format in GitHub**](https://docs.github.com/es/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
