@@ -3,6 +3,6 @@
 
 class printer {
 public:
-	std::string str = "Hello, CMake";
+	std::string str = "Hello, simple world";
 	void say_hello();
 };

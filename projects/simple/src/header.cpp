@@ -3,4 +3,5 @@
 
 void printer::say_hello() { 
 	std::cout << str << std::endl; 
+	system("pause");
 }
