@@ -1,8 +1,12 @@
 
 - **Testing:**
   - _GoogleTest_
+  - _Catch2_
 - **Dockering**
 - **Continuous integration**
 - **Continuous delivery**
 - **Continuous deployment**
 - **Automatic deployment**
+- **Others:**
+  - GLM
+  - SQLite
