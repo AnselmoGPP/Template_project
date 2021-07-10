@@ -9,4 +9,5 @@
 - **Automatic deployment**
 - **Others:**
   - GLM
+  - Eigen
   - SQLite
