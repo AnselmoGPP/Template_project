@@ -2,7 +2,7 @@
 
 <br>![example image](https://raw.githubusercontent.com/AnselmoGPP/Template_project/master/more/code.png)
 
-This program is a project template. 
+This program is a template for a C++ project. 
 
 ## Table of Contents
 + [Project content](#project-content)
