@@ -9,6 +9,7 @@ This program is a template for a C++ project.
 + [Building the project](#building-the-project)
     + [Ubuntu](#ubuntu)
     + [Windows](#windows)
+    + [Code](#code)
 + [Links](#links)
 
 ## Project content
@@ -34,6 +35,15 @@ Include details here
 ### Windows
 
 Include details here
+
+### Code
+
+```
+int main(int argc, char* argv[])
+{
+  return 0;
+}
+```
 
 ## Links
 
