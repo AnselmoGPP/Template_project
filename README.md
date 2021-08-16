@@ -7,13 +7,13 @@ This program is a project template.
 ## Table of Contents
 + [Project content](#project-content)
 + [Building the project](#building-the-project)
-    +[Ubuntu](#ubuntu)
-    +[Windows](#windows)
+    + [Ubuntu](#ubuntu)
+    + [Windows](#windows)
 + [Links](#links)
 
 ## Project content
 
-<h3>Content of this template project:</h3>
+<h4>Content of this template project:</h4>
 
 - _**projects:**_ Different projects
   - **simple:** A simple project
@@ -37,6 +37,6 @@ Include details here
 
 ## Links
 
-<h3>Useful links:</h3>
+<h4>Useful links:</h4>
 
 - [Writing and format in GitHub](https://docs.github.com/es/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
