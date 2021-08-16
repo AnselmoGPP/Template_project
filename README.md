@@ -4,7 +4,16 @@
 
 This program is a project template. 
 
-<h3>Content:</h3>
+## Table of Contents
++ [Project content](#project-content)
++ [Building the project](#building-the-project)
+    +[Ubuntu](#ubuntu)
+    +[Windows](#windows)
++ [Links](#links)
+
+## Project content
+
+<h3>Content of this template project:</h3>
 
 - _**projects:**_ Different projects
   - **simple:** A simple project
@@ -16,6 +25,18 @@ This program is a project template.
   - **...**
 - _**more:**_ Images, sample CMakeLists, and other files
 
-<h3>Links:</h3>
+## Building the project
+
+### Ubuntu
+
+Include details here
+
+### Windows
+
+Include details here
+
+## Links
+
+<h3>Useful links:</h3>
 
 - [Writing and format in GitHub](https://docs.github.com/es/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
