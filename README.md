@@ -30,11 +30,11 @@ This program is a template for a C++ project.
 
 ### Ubuntu
 
-Include details here
+Execute `some_script`
 
 ### Windows
 
-Include details here
+Execute `some_script.bat`
 
 ### Code
 
